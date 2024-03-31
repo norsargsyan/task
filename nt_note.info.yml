@@ -1,0 +1,9 @@
+name: My notes
+description: Provides Notes functionality
+package: Custom
+
+type: module
+core_version_requirement: ^9.4 || ^10
+
+dependencies:
+  - drupal:block

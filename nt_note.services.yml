@@ -1,0 +1,4 @@
+services:
+  nt_note.manager:
+    class: \Drupal\nt_note\Service\NoteManager
+    arguments: ['@entity_type.manager', '@current_user']

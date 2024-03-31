@@ -1,0 +1,3 @@
+administer note:
+  title: 'Administer note settings'
+  restrict access: true

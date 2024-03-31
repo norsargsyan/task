@@ -1,0 +1,5 @@
+note.add_form:
+  title: 'Add note'
+  route_name: entity.note.add_form
+  appears_on:
+    - entity.note.collection

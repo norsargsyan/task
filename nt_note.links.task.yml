@@ -1,0 +1,5 @@
+entity.note.collection:
+  title: 'Notes'
+  route_name: entity.note.collection
+  base_route: system.admin_content
+  weight: 10
